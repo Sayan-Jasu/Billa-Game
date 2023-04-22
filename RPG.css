@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(234, 255, 49);
+}
+
+#headings {
+    text-align: center;
+    background-color: gold;
+    color: firebrick;
+}
+
+#text {
+    background-color: lemonchiffon;
+    color: rebeccapurple;
+    padding: 10px;
+}
+
+#game {
+    max-width: 500px;
+    max-height: 400px;
+    background-color: tomato;
+    color: firebrick;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#controls {
+    border: 1px blueviolet dashed;
+    padding: 5px;
+}
+
+#stats {
+    border: 1px goldenrod dotted;
+    color: red;
+    padding: 5px;
+}
+
+#monsterStats {
+    display: none;
+    border: 1px gold groove;
+    color: blue;
+    padding: 5px;
+    background-color: lightcoral;
+}
+
+.stat {
+    padding-right: 10px;
+}
